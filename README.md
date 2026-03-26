@@ -13,4 +13,3 @@ Este projeto é uma página de "Em Manutenção" desenvolvida com Next.js 14. Ap
 - **CSS3** - Estilização com animações
 - **Git** - Controle de versão
 
-## 📁 Estrutura do Projeto
