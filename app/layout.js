@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Site em Manutenção',
+  title: 'CIPTEA - Jaboatão dos Guararapes',
   description: 'Nosso site está passando por melhorias. Volte em breve!',
 }
 
